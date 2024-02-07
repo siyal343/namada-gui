@@ -1,1 +1,2 @@
 # namada-gui
+# namada-gui
